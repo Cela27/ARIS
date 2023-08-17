@@ -1,2 +1,2 @@
 # ARIS
-Recommendation part form aris subject
+Recommendation part from aris subject
